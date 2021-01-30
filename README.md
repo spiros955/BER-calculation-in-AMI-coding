@@ -39,6 +39,21 @@ To have minimum ISI (Intersymbol interference), the overall response of transmit
 
 # System Overview
 
-![ppppp](https://user-images.githubusercontent.com/59124127/106364928-d3f16e00-633a-11eb-9b26-88dc9830ddfd.jpg)
+![wwww](https://user-images.githubusercontent.com/59124127/106365315-6abf2a00-633d-11eb-8395-4614fe921822.jpg)
+
+# Results
+
+1. SNR = 6
+
+![111](https://user-images.githubusercontent.com/59124127/106365101-e91acc80-633b-11eb-808f-0f86d1be532f.png)
+
+2. SNR = 9 
+
+![222](https://user-images.githubusercontent.com/59124127/106365131-20897900-633c-11eb-9a1d-19a6ee432a64.png)
+
+3.SNR = 12 
+
+![333](https://user-images.githubusercontent.com/59124127/106365143-41ea6500-633c-11eb-83e4-44d317e5603a.png)
+
 
 
