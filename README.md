@@ -37,3 +37,8 @@ Additive white Gaussian noise (AWGN) is a basic noise model used in information 
 A root-raised-cosine filter (RRC), sometimes known as square-root-raised-cosine filter (SRRC), is frequently used as the transmit and receive filter in a digital communication system to perform matched filtering. This helps in minimizing **intersymbol interference (ISI)**. The combined response of two such filters is that of the raised-cosine filter.
 To have minimum ISI (Intersymbol interference), the overall response of transmit filter, channel response and receive filter has to satisfy Nyquist ISI criterion. Raised-cosine filter is the most popular filter response satisfying this criterion.
 
+# System Overview
+
+![ppppp](https://user-images.githubusercontent.com/59124127/106364928-d3f16e00-633a-11eb-9b26-88dc9830ddfd.jpg)
+
+
