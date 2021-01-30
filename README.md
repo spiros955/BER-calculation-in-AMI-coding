@@ -55,5 +55,10 @@ To have minimum ISI (Intersymbol interference), the overall response of transmit
 
 ![333](https://user-images.githubusercontent.com/59124127/106365143-41ea6500-633c-11eb-83e4-44d317e5603a.png)
 
+## BER-SNR diagram 
 
+![Final](https://user-images.githubusercontent.com/59124127/106365349-a823b780-633d-11eb-9250-927ba7d3bb18.png)
 
+# Conclusion
+
+The BER-SNR diagram satisfyingly approaches the theoretical BER-SNR diagram .
