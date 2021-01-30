@@ -1,5 +1,5 @@
 %%
-%   Ενσωματωμένα Επικοινωνιακά Συστήματα
+%   Intergrated Communication System
 
 
 close all;
@@ -75,7 +75,7 @@ for m=1:lenSNR
                 Bits(ns) =  randi([0, 1]);              % New bit
             end
             
-            %  ΑΜΙ modulation
+            %  AMI modulation
             
             flag=0;
             
@@ -155,7 +155,7 @@ for m=1:lenSNR
             end
         end
       %%  
-        %Συσχέτιση
+        % Correlation
         
         
         t1 = (0:length(Bits)-1)/Rbits;
